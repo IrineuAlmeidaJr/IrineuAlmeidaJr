@@ -1,4 +1,4 @@
-### Olá sou Irineu, compartilho meus exercício de estudos.  
+### Olá sou Irineu, compartilho meus projetos e exercícios de estudos.  
 
 <div align="center">
   <a href="https://github.com/IrineuAlmeidaJr">
