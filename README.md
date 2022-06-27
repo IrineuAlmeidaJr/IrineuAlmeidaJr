@@ -12,7 +12,9 @@
   <img align="center" width="40" height="40" style="padding-left: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   &ensp;
   <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  &ensp;  
+  &ensp;
+   <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> 
+  &ensp;
   <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
   &ensp;
   <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
@@ -22,10 +24,8 @@
   <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div> 
   
-  ### Estou Apreendendo:
+  ### Estou Estudando:
 <div style="display: inline_block"><br>   
-  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> 
-  &ensp;
   <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
 </div>
 <div align="center"> 
