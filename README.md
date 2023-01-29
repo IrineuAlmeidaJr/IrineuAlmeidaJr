@@ -36,7 +36,7 @@
   
   ### Estou Estudando:
 <div style="display: inline_block"><br>   
-  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
+  <img align="center" width="40" height="40" src="https://toppng.com/public/uploads/thumbnail/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994bz4gmmu3qd.png"/>
   &ensp; 
    <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
           
