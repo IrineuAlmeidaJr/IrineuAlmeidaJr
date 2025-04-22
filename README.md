@@ -38,6 +38,8 @@
   
   ### Estou Estudando:
 <div style="display: inline_block"><br>   
+   <img align="center" width="40" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+    &ensp; 
    <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" />
     &ensp; 
    <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
